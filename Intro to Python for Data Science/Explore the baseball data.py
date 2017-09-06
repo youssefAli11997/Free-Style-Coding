@@ -1,4 +1,4 @@
-// exercise link : https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-4-numpy?ex=15
+# exercise link : https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-4-numpy?ex=15
 
 # np_baseball is available
 
