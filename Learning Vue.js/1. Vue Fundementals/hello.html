@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <script type="text/javascript" src="https://unpkg.com/vue@2.4.2/dist/vue.js"></script>
+    </head>
+    <body>
+        <div id="app">
+            <h1>{{msg}}</h1>
+            <a v-bind:href="url">Hello Google</a>
+            <form>
+                Name: <input type="text" v-bind:value="name"/>
+            </form>
+        </div>
+        
+        <script>
+            var vm = new Vue({
+               el: '#app',
+               data: {
+                    msg: "Hello from Vue!",
+                    url: "https://www.google.com",
+                    name: "Youssef"
+               }
+            });
+        </script>
+    </body>
+</html>
