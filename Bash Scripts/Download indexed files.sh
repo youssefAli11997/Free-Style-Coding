@@ -1,7 +1,7 @@
 : '
 
 A simple script that can be used to download indexed files from a directory with wget
-I used it do download Quran audio files as a demonstration
+I wrote it to download Quran audio files as a demonstration
 
 '
 directory="https://archive.org/download/Nasr-Qatami/"
