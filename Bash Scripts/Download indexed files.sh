@@ -21,6 +21,6 @@ do
 			index="$i"
 		fi
 	fi
-	wget -O "/media/youssefali/All/Quran/$index$extension" "$directory$index$extension"
+	wget -O "~/Quran/$index$extension" "$directory$index$extension"
 	#echo "$directory$index$extension"
 done
