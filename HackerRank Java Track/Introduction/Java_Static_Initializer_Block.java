@@ -4,7 +4,7 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
-public class Solution {
+public class Java_Static_Initializer_Block {
 
   static int B,H;
   static Scanner in;
