@@ -1,2 +1,2 @@
-#ReactJS Practice
+# ReactJS Practice
 Mini Projects
